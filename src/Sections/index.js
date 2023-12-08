@@ -1,0 +1,1 @@
+import menu1 from '../assets/img/menu2.png'

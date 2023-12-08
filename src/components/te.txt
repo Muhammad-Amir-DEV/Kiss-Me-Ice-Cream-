@@ -1,0 +1,76 @@
+<div className="box-1 boxs">
+            <div className="content">
+              <h1 className='menu-heading'>Real strawberry ice cream</h1>
+              {/* <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p> */}
+              <div className='oder-btn'>
+                <figcaption>20$</figcaption>
+                <button>Add to cart</button>
+              </div>
+            </div>
+          </div>
+          <div className="box-2 boxs">
+            <div className="content">
+              <h1 className='menu-heading'>Real strawberry ice cream</h1>
+              {/* <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p> */}
+              <div className='oder-btn'>
+                <figcaption>20$</figcaption>
+                <button>Add to cart</button>
+              </div>
+            </div>
+          </div>
+          <div className="box-3 boxs">
+            <div className="content">
+              <h1 className='menu-heading'>Real strawberry ice cream</h1>
+              {/* <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p> */}
+              <div className='oder-btn'>
+                <figcaption>20$</figcaption>
+                <button>Add to cart</button>
+              </div>
+            </div>  </div>
+          <div className="box-4 boxs">
+            <div className="content">
+              <h1 className='menu-heading'>Real strawberry ice cream</h1>
+              {/* <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p> */}
+              <div className='oder-btn'>
+                <figcaption>20$</figcaption>
+                <button>Add to cart</button>
+              </div>
+            </div>
+          </div><div className="box-5 boxs">
+            <div className="content">
+              <h1 className='menu-heading'>Real strawberry ice cream</h1>
+              {/* <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p> */}
+              <div className='oder-btn'>
+                <figcaption>20$</figcaption>
+                <button>Add to cart</button>
+              </div>
+            </div>
+          </div><div className="box-6 boxs">
+            <div className="content">
+              <h1 className='menu-heading'>Real strawberry ice cream</h1>
+              {/* <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p> */}
+              <div className='oder-btn'>
+                <figcaption>20$</figcaption>
+                <button>Add to cart</button>
+              </div>
+            </div>
+          </div><div className="box-7 boxs">
+            <div className="content">
+              <h1 className='menu-heading'>Real strawberry ice cream</h1>
+              {/* <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p> */}
+              <div className='oder-btn'>
+                <figcaption>20$</figcaption>
+                <button>Add to cart</button>
+              </div>
+            </div>
+          </div><div className="box-8 boxs">
+            <div className="content">
+              <h1 className='menu-heading'>Real strawberry ice cream</h1>
+              {/* <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p> */}
+              <div className='oder-btn'>
+                <figcaption>20$</figcaption>
+                <button>Add to cart</button>
+              </div>
+            </div>
+          
+          </div>
